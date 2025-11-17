@@ -50,5 +50,6 @@ To create a simple "Hello World" application for iOS using the **SwiftUI** frame
 - UI is declared inside:
   ```swift
   var body: some View
-  <img width="190" height="411" alt="image" src="https://github.com/user-attachments/assets/95638353-ffb4-4c14-a1ba-e0e5d749f06a" />
+  <img width="190" height="411" alt="image" src="https://github.com/user-attachments/assets/746e4313-e892-4e60-8bd5-00433efeae91" />
+
 
